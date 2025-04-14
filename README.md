@@ -134,6 +134,7 @@
 
 <!-- 项目介绍 -->
 ## My Projects  
+<!-- 
 <div align="center">
 
 <table>
@@ -246,7 +247,7 @@
   </tr>
   <!-- 重复以上行来添加更多项目 -->
 </table>
-
+ -->
 <!-- 粉红色汇总表 -->
 <img width="120%" src="https://repobeats.axiom.co/api/embed/c577be31087fb4f31886421e18b2d222ec98aa8f.svg" />
 
