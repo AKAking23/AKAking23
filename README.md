@@ -38,29 +38,4 @@
 </a>
 </div>  
 
-
-<!-- star 语言占比等统计 -->
-## Github Stats  
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=1321928757&hide_title=true&hide_border=true&show_icons=trueline_height=21" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1321928757&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
-</div>
-<!-- for beauty 留个空行好看点 -->
-<div>&nbsp;</div>
-
-<!-- 技能表 -->
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<!-- 前端技能 -->
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
 </div>
